@@ -2,7 +2,7 @@
 
 [A prelogue by Tim Ferris](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=en) : Learn by decomposing large structures into smaller ones. By recognizing concepts into similiar patterns you know.
 
-## An opinionated guide for starting your career as a web developer by [Sean Dokko](github.com/dok)
+## An opinionated guide for starting your career as a web developer
 
 ### Directions
 
@@ -31,3 +31,7 @@
   - Why do you need to learn about databases? You can store stuff.
   - Learn about [SQL](http://sqlzoo.net/)
   - Learn about [MongoDb](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+
+#### Contributors
+ - [dok](github.com/dok)
