@@ -44,6 +44,9 @@
   - Why do you need to learn about databases? So that you can store stuff.
   - Learn about [SQL](http://sqlzoo.net/)
   - Learn about [MongoDb](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+6. Job hunting
+  - Why? Because it takes a different type of skillset than actually being a developer
+  - Learn about how to solve coding quizzes through [Cracking the Coding Interview](http://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=seandokko-20&linkId=JVYGKTUUO44E7RBC)
 
 
 #### Contributors
